@@ -113,7 +113,6 @@ common jobs awkward. Here's how the two line up:
 | **Skip hidden layers** | ✅ *Skip hidden layers / folders* checkbox (respects folder visibility) | ✅ *Visible Layers Only* checkbox |
 | **One consolidated settings dialog** | ✅ Yes | ✅ Yes |
 | **Leaves the document untouched** | ✅ Restores visibility afterward | ✅ Works on internal copies |
-| **Maintained by** | You | Adobe (official) |
 
 **Use this script when** you organise work into folders and want one image per
 folder, or you care about numbering order and clean filenames.
@@ -138,6 +137,4 @@ PDF, etc.) or a built‑in "visible layers only" filter.
 
 ---
 
-## License
 
-_Add your license here (e.g. MIT)._
