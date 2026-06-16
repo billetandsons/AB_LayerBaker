@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Jun 16, 2026, 04_11_55 PM" src="https://github.com/user-attachments/assets/99ec68cc-7a17-495f-89ca-c8fd1df0ee5c" />
+
 # AB_LayerBaker *(L'yer Bak'er)*
 
 A single‑dialog Photoshop script (`AB_LayerBaker.jsx`) that exports each item in the
