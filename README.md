@@ -7,8 +7,8 @@ Files*, it can treat a **folder/group as one composited image**, lets you contro
 
 <table>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/0c0b51b9-a358-4193-96c9-04e2d7830e51" width="300"/></td>
-<td><img src="https://github.com/user-attachments/assets/2fd646cb-c7be-41fb-b7db-d7629c6b49b6" width="1002" /></td>
+<td><img src="https://github.com/user-attachments/assets/0c0b51b9-a358-4193-96c9-04e2d7830e51" width="450"/></td>
+<td><img src="https://github.com/user-attachments/assets/2fd646cb-c7be-41fb-b7db-d7629c6b49b6" width="950" /></td>
 </tr>
 <tr>
 <td align="center"><em>Layer Window</em></td>
@@ -90,12 +90,13 @@ common jobs awkward. Here's how the two line up:
 
 <table>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/d74ff3c4-8eb1-4a53-ba03-3cb18609fff7" width="500"/></td>
 <td><img src="https://github.com/user-attachments/assets/8daa2a56-7f76-47b3-b85c-7cddd528ab48" width="500"/></td>
+<td><img src="https://github.com/user-attachments/assets/d74ff3c4-8eb1-4a53-ba03-3cb18609fff7" width="500"/></td>
 </tr>
 <tr>
-<td align="center"><em>The other guys</em></td>
 <td align="center"><em>AB_LayerBaker Dialogue box</em></td>
+<td align="center"><em>The other guys</em></td>
+
 </tr>
 </table>
 
